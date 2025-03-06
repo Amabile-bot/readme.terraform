@@ -94,10 +94,7 @@ Deverá aparecer a página padrão do Nginx.
 ```sh
 terraform destroy -auto-approve
 ```
-
-## Contribuição
-
-Sinta-se à vontade para sugerir melhorias ou abrir PRs! 😊
+ 😊
 
 ## Autor
 
